@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+
+LibraryEngine/__pycache__/
+library/__pycache__/
+library/migrations/__pycache__/
