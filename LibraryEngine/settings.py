@@ -124,7 +124,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-ROLEPERMISSIONS_MODULE = 'myapplication.roles'
+# ROLEPERMISSIONS_MODULE = 'myapplication.roles'
 
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': (
